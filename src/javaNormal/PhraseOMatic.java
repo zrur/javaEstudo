@@ -1,3 +1,5 @@
+package javaNormal;
+
 public class PhraseOMatic {
     public static void main(String[] args) {
         String[] worldListOne = {"Hello", "World", "bolo", "Volume", "Chafarriz", "Maquina", "kiko", "cd", "Mario", "João", "Café"};

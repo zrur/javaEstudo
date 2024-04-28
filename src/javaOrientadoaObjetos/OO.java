@@ -1,16 +1,10 @@
-class Movie{
-    String title;
-    String genre;//instancia os objetos
-    int rating;
+package javaOrientadoaObjetos;
 
-    void playIt(){
-        System.out.println("Playing Movie");
-    }
-}
 public class OO {
-    public static void main(String[] args) {
-        Movie one = new Movie();
-        one.title = "Gone with the moon";
+    public static void main(String[] args) {//um metodo main
+
+        Movie one = new Movie();//cria um objeto filme
+        one.title = "Gone with the moon";//cria tituo
         one.genre = "Sci-Fi";
         one.rating = 8;
         Movie Two = new Movie();

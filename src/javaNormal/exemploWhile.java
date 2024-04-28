@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package javaNormal;
 
 public class exemploWhile {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package javaNormal;
+
 public class testesBoleanos {
     public static void main(String[] args) {
         System.out.println("<(menor que)");

@@ -1,3 +1,5 @@
+package javaNormal;
+
 public class ImâsdeGeladeira {
     public static void main(String[] args) {
         int x = 3;
